@@ -1,0 +1,15 @@
+C:\Users\danii\source\repos\labfinal2\lab2final\bin\Debug\net6.0\lab2final.exe
+C:\Users\danii\source\repos\labfinal2\lab2final\bin\Debug\net6.0\lab2final.deps.json
+C:\Users\danii\source\repos\labfinal2\lab2final\bin\Debug\net6.0\lab2final.runtimeconfig.json
+C:\Users\danii\source\repos\labfinal2\lab2final\bin\Debug\net6.0\lab2final.dll
+C:\Users\danii\source\repos\labfinal2\lab2final\bin\Debug\net6.0\lab2final.pdb
+C:\Users\danii\source\repos\labfinal2\lab2final\obj\Debug\net6.0\lab2final.csproj.AssemblyReference.cache
+C:\Users\danii\source\repos\labfinal2\lab2final\obj\Debug\net6.0\lab2final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danii\source\repos\labfinal2\lab2final\obj\Debug\net6.0\lab2final.AssemblyInfoInputs.cache
+C:\Users\danii\source\repos\labfinal2\lab2final\obj\Debug\net6.0\lab2final.AssemblyInfo.cs
+C:\Users\danii\source\repos\labfinal2\lab2final\obj\Debug\net6.0\lab2final.csproj.CoreCompileInputs.cache
+C:\Users\danii\source\repos\labfinal2\lab2final\obj\Debug\net6.0\lab2final.dll
+C:\Users\danii\source\repos\labfinal2\lab2final\obj\Debug\net6.0\refint\lab2final.dll
+C:\Users\danii\source\repos\labfinal2\lab2final\obj\Debug\net6.0\lab2final.pdb
+C:\Users\danii\source\repos\labfinal2\lab2final\obj\Debug\net6.0\lab2final.genruntimeconfig.cache
+C:\Users\danii\source\repos\labfinal2\lab2final\obj\Debug\net6.0\ref\lab2final.dll
